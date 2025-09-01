@@ -16,7 +16,7 @@
 * 👨‍💻 Exploring **AI, Web, and Automation**
 * 🌱 Currently learning **Supabase**
 * 🎮 Anime enjoyer & casual gamer
-* 📫 Reach me: [Telegram](#) | [Email](#)
+* 📫 Reach me: [Telegram](https://t.me/dhasap1220) | [Email](mailto:dhasap@xhx.my.id)
 
 ---
 
