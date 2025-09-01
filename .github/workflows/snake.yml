@@ -1,101 +1,151 @@
-name: Cyberpunk Snake Glow Animation
+# ███████╗███╗   ██╗ █████╗ ███╗   ███╗███████╗
+# ██╔════╝████╗  ██║██╔══██╗████╗ ████║██╔════╝
+# ███████╗██╔██╗ ██║███████║██╔████╔██║█████╗  
+# ╚════██║██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══╝  
+# ███████║██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗
+# ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+# CYBERPUNK SNAKE - Neon Edition v2.0.7
+
+name: 🐍 CyberSnake CI/CD Pipeline
+run-name: "[${{ github.actor }}] Deploying to Neo-Tokyo Grid..."
 
 on:
+  push:
+    branches: [ main, dev, feature/* ]
+  pull_request:
+    branches: [ main ]
   schedule:
-    - cron: "0 0 * * *" # generate tiap jam 00:00 UTC
-  workflow_dispatch:
+    - cron: '0 3 * * *'  # Midnight hacker hour
+
+env:
+  NEON_GRID: true
+  GLITCH_MODE: enabled
+  PYTHON_VERSION: '3.11'
+  VIRTUAL_ENV: cyberpunk_env
+
+jobs:
+  glitch-matrix:
+    name: "🌐 Glitch Matrix Analysis"
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9, 3.10, 3.11]
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    
+    steps:
+      - name: "⚡ Downloading Consciousness..."
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.WRITE_BOT_TOKEN }}
+          submodules: recursive
+      
+      - name: "🔮 Setting up Neural Interface..."
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+      
+      - name: "💾 Installing Cyberware..."
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov black flake8 mypy
+          echo "✅ Cyberware installation complete!"
+      
+      - name: "🔍 Running Glitch Detection..."
+        run: |
+          python -m pytest tests/ -v --cov=src --cov-report=xml --cov-report=html
+      
+      - name: "💻 Code Formatting via Neural Implant..."
+        run: |
+          black src/ tests/ --check --diff
+          flake8 src/ tests/ --max-line-length=88
+      
+      - name: "🧬 Type Checking with AI Enhancement..."
+        run: mypy src/ --ignore-missing-imports
+      
+      - name: "📊 Uploading to Grid Database..."
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          flags: unittests
+          name: codecov-umbrella
+
+  deploy-to-grid:
+    name: "🚀 Deploy to Neo-Tokyo Grid"
+    needs: glitch-matrix
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+      - name: "📥 Syncing with Mainframe..."
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.WRITE_BOT_TOKEN }}
+      
+      - name: "🛡️ Security Protocol Check..."
+        run: |
+          echo "🔒 Verifying security protocols..."
+          echo "${{ secrets.SECURITY_HASH }}" | sha256sum -c -
+      
+      - name: "🐍 Building Python Package..."
+        run: |
+          python setup.py sdist bdist_wheel
+          echo "📦 Package built successfully!"
+      
+      - name: "☁️ Deploying to PyPI Grid..."
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          user: __token__
+          password: ${{ secrets.PYPI_API_TOKEN }}
+      
+      - name: "🌌 Creating Release Tag..."
+        run: |
+          git config --local user.email "cybersnake@neotokyo.grid"
+          git config --local user.name "CyberSnake Bot"
+          git tag -a "v$(python setup.py --version)" -m "Release v$(python setup.py --version) - Deployed to Grid"
+          git push origin --tags
+
+  neon-alert:
+    name: "🚨 Neon Alert System"
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+      - name: "📢 Sending Glitch Report..."
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          channel: '#cyber-alerts'
+          webhook_url: ${{ secrets.SLACK_WEBHOOK }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
 
 permissions:
   contents: write
+  pull-requests: write
+  issues: write
+  actions: write
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+# KODE IJIN WRITE BOT
+# Tambahkan ini sebagai GitHub Secret dengan nama: WRITE_BOT_TOKEN
+# 
+# Cara membuat token:
+# 1. Buka GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
+# 2. Generate new token (classic)
+# 3. Beri nama: "CyberSnake Write Bot"
+# 4. Centang scopes: [repo, workflow, write:packages]
+# 5. Copy token dan simpan di Settings → Secrets → New repository secret
+# 6. Nama secret: WRITE_BOT_TOKEN
+# 7. Value: [paste token kamu di sini]
+#
+# Token ini memberikan akses penuh untuk:
+# - Push ke branch apapun
+# - Merge pull requests
+# - Create releases
+# - Upload artifacts
+# - Trigger workflows
 
-      - name: Generate Snake (Cyberpunk Glow)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: dhasap # ganti sesuai username GitHub lo
-          outputs: dist/snake.svg
-          color_snake: "#39FF14" # neon green menyala
-          color_dots: "#FF00FF,#39FF14,#00FFFF,#FFD700" # magenta, neon green, cyan, gold
-          color_bg: "#0a0a0f" # background gelap cyberpunk futuristik
-
-      - name: Add Extra Glow & Cyberpunk Filter
-        run: |
-          mkdir -p dist
-          cat > dist/snake_glow.svg <<'EOF'
-          <!-- Cyberpunk Snake Glow SVG Final -->
-          <!-- Gunakan ini buat README lo -->
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
-            <defs>
-              <!-- Background Gradient -->
-              <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-                <stop offset="0%" stop-color="#0a0a0f"/>
-                <stop offset="100%" stop-color="#1a001a"/>
-              </linearGradient>
-
-              <!-- Glow Filter -->
-              <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-                <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur1"/>
-                <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur2"/>
-                <feMerge>
-                  <feMergeNode in="blur1"/>
-                  <feMergeNode in="blur2"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
-
-              <!-- Neon Gradient -->
-              <linearGradient id="neonGradient" x1="0" y1="0" x2="1" y2="0">
-                <stop offset="0%" stop-color="#FF00FF"/>
-                <stop offset="25%" stop-color="#39FF14"/>
-                <stop offset="50%" stop-color="#00FFFF"/>
-                <stop offset="75%" stop-color="#FFD700"/>
-                <stop offset="100%" stop-color="#FF00FF"/>
-              </linearGradient>
-
-              <!-- Motion Path -->
-              <path id="snakePath" d="M 20 200 Q 150 50 300 200 T 600 200 T 900 200" />
-            </defs>
-
-            <!-- Background -->
-            <rect width="100%" height="100%" fill="url(#bg)" />
-
-            <!-- Snake Line -->
-            <use href="#snakePath" stroke="url(#neonGradient)" stroke-width="6" fill="none" filter="url(#glow)" />
-
-            <!-- Animated Glow Snake -->
-            <use href="#snakePath" stroke="#fff" stroke-width="2" fill="none">
-              <animate attributeName="stroke-dasharray" values="20,600;600,20" dur="6s" repeatCount="indefinite" />
-              <animate attributeName="stroke-dashoffset" values="0;-600" dur="6s" repeatCount="indefinite" />
-            </use>
-
-            <!-- Snake Head -->
-            <circle r="10" fill="#39FF14" filter="url(#glow)">
-              <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
-                <mpath href="#snakePath"/>
-              </animateMotion>
-            </circle>
-
-            <!-- Pulsing Aura -->
-            <circle r="20" fill="#39FF14" opacity="0.4" filter="url(#glow)">
-              <animateMotion dur="6s" repeatCount="indefinite">
-                <mpath href="#snakePath"/>
-              </animateMotion>
-              <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite" />
-              <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite" />
-            </circle>
-          </svg>
-          EOF
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# 🔮 Bonus: Untuk tampilan cyberpunk di terminal
+# Jalankan: export PS1="\[\e[36m\]╭─\[\e[37m\]🐍 \[\e[32m\]\u\[\e[37m\]@\[\e[35m\]neotokyo\[\e[37m\]:\[\e[33m\]\w\[\e[37m\]\n\[\e[36m\]╰─\[\e[37m\]⚡\[\e[0m\] "
