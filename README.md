@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
