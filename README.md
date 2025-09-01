@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Cyberpunk Snake](https://raw.githubusercontent.com/dhasap/dhasap/output/snake.svg)
+![Cyberpunk Snake](https://raw.githubusercontent.com/dhasap/dhasap/output/snake_glow.svg)
 
 </div>
 
