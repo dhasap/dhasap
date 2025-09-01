@@ -111,17 +111,3 @@ permissions:
   contents: write
   pull-requests: write
   issues: write
-
-# SETUP CEPAT
-# ============
-# 1. WRITE_BOT_TOKEN: Settings → Secrets → Actions
-#    Name: WRITE_BOT_TOKEN
-#    Value: ghp_xxxxxxxxxxxxxxxx (GitHub PAT)
-#
-# 2. PYPI_API_TOKEN: (Opsional)
-#    Name: PYPI_API_TOKEN
-#    Value: pypi-xxxxxxxxxxxxxxxx
-#
-# 3. SLACK_WEBHOOK_URL: (Opsional)
-#    Name: SLACK_WEBHOOK_URL
-#    Value: https://hooks.slack.com/xxxxxxxxx
