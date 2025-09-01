@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Cyberpunk Snake](https://raw.githubusercontent.com/dhasap/dhasap/output/snake_glow.svg)
+![CyberSnake CI](https://github.com/dhasap/dhasap/workflows/🐍%20CyberSnake%20CI%2FCD%20Pipeline/badge.svg)
 
 </div>
 
