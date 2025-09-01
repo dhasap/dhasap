@@ -1,7 +1,13 @@
+# .github/workflows/snake-contrib.yml - VERSI FIX
 name: Generate Snake
 on:
-  schedule: [{cron: "0 */24 * * *"}]
+  schedule:
+    - cron: "0 */24 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
 
 jobs:
   build:
@@ -14,9 +20,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.WRITE_BOT_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Pakai token bawaan
+          publish_dir: ./dist
+          publish_branch: output
