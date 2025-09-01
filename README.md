@@ -1,19 +1,20 @@
-<!-- CYBERPUNK NEON BURST v3.0 -->
+<!-- CYBERPUNK NEON LIGHTSHOW v4.0 -->
 
 <div align="center">
-  <img src="https://i.ibb.co/4Wc5Vqn/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 20px; box-shadow: 0 0 30px #ff00ff, 0 0 60px #00ffff;"/>
+  <img src="https://i.ibb.co/4Wc5Vqn/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 25px; box-shadow: 0 0 35px #ff00ff, 0 0 70px #00ffff; background: #0d0d0d;"/>
 </div>
 
 <h1 align="center">
-  <span style="font-size: 2.5em; background: linear-gradient(90deg, #ff0080, #ffea00, #00ffea, #ff0080); 
+  <span style="font-size: 2.8em; 
+               background: linear-gradient(90deg, #ff00ff, #00ffff, #39ff14, #ff2400, #a020f0, #ffff33, #ff00ff); 
                -webkit-background-clip: text; background-clip: text; color: transparent;
-               text-shadow: 0 0 15px #ff0080, 0 0 30px #00ffea, 0 0 45px #ffea00;">
+               text-shadow: 0 0 20px #ff00ff, 0 0 40px #00ffff, 0 0 60px #39ff14;">
     ⚡ Dhany — Cyberpunk Coder ⚡
   </span>
 </h1>
 
 <p align="center">
-  <em style="color: #ffea00; font-size: 1.2em; text-shadow: 0 0 10px #ffea00, 0 0 20px #ffea00;">
+  <em style="color: #ff00ff; font-size: 1.3em; text-shadow: 0 0 15px #ff00ff, 0 0 30px #a020f0;">
     “Living between code & neon lights.”
   </em>
 </p>
@@ -24,32 +25,32 @@
 
 | **Attribute** | **Status** |
 |---------------|------------|
-| **System** | <span style="color:#ff0080">AI, Web & Automation</span> |
-| **Learning** | <span style="color:#00ffea">Supabase Protocol</span> |
-| **Hobby** | <span style="color:#ffea00">Anime & Gaming</span> |
-| **Contact** | <span style="color:#39ff14">dhasap1220@matrix</span> |
+| **System** | <span style="color:#ff00ff">AI, Web & Automation</span> |
+| **Learning** | <span style="color:#00ffff">Supabase Protocol</span> |
+| **Hobby** | <span style="color:#39ff14">Anime & Gaming</span> |
+| **Contact** | <span style="color:#ffff33">dhasap@xhx.my.id</span> |
 
 ---
 
-## 🛠️ Neon Arsenal
+## 🛠️ Neon Arsenal (Cerah Max)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FF0080?style=for-the-badge&logo=python&logoColor=FFFF00&labelColor=FFEA00"/>
-  <img src="https://img.shields.io/badge/Node.js-00FFEA?style=for-the-badge&logo=node-dot-js&logoColor=FF0080&labelColor=FFEA00"/>
-  <img src="https://img.shields.io/badge/Playwright-FFFF00?style=for-the-badge&logo=playwright&logoColor=FF0080&labelColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/Vercel-FFEA00?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FF0080"/>
-  <img src="https://img.shields.io/badge/Supabase-FF0080?style=for-the-badge&logo=supabase&logoColor=FFFF00&labelColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/Python-ff00ff?style=for-the-badge&logo=python&logoColor=0d0d0d&labelColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=node-dot-js&logoColor=0d0d0d&labelColor=00ffff"/>
+  <img src="https://img.shields.io/badge/Playwright-39ff14?style=for-the-badge&logo=playwright&logoColor=0d0d0d&labelColor=39ff14"/>
+  <img src="https://img.shields.io/badge/Vercel-a020f0?style=for-the-badge&logo=vercel&logoColor=ffff33&labelColor=a020f0"/>
+  <img src="https://img.shields.io/badge/Supabase-ff2400?style=for-the-badge&logo=supabase&logoColor=ffff33&labelColor=ff2400"/>
 </p>
 
 ---
 
-## 📊 Live Stats (Neon Mode)
+## 📊 Live Stats (Neon Burst)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhasap&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=FFFF00&title_color=FF0080&text_color=00FFEA&icon_color=FFEA00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhasap&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0d0d0d&title_color=ff00ff&text_color=00ffff&icon_color=39ff14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=00FFEA&title_color=FFFF00&text_color=FF0080)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=radical&hide_border=true&border_radius=20&bg_color=1a1a1a&title_color=ffff33&text_color=ff2400)
 
 </div>
 
@@ -61,25 +62,25 @@
   
 ![Snake animation](https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg)
 
-<kbd style="background:#FF0080;color:#FFFF00;padding:8px 16px;border-radius:8px;font-weight:bold;">
-  ⚡ REAL-TIME GRID ACTIVE
+<kbd style="background:#ff00ff;color:#0d0d0d;padding:10px 20px;border-radius:12px;font-weight:bold;border:2px solid #00ffff;">
+  ⚡ NEON GRID ACTIVE
 </kbd>
 
 </div>
 
 ---
 
-## 🌐 Neon Links
+## 🌐 Neon Links (Bright Mode)
 
 <p align="center">
   <a href="https://t.me/dhasap1220">
-    <img src="https://img.shields.io/badge/🚀_Telegram-FF0080?style=for-the-badge&logo=telegram&logoColor=FFFF00&labelColor=00FFEA"/>
+    <img src="https://img.shields.io/badge/🚀_Telegram-ff00ff?style=for-the-badge&logo=telegram&logoColor=0d0d0d&labelColor=ff00ff"/>
   </a>
   <a href="mailto:dhasap@xhx.my.id">
-    <img src="https://img.shields.io/badge/📧_Email-00FFEA?style=for-the-badge&logo=gmail&logoColor=FF0080&labelColor=FFFF00"/>
+    <img src="https://img.shields.io/badge/📧_Email-00ffff?style=for-the-badge&logo=gmail&logoColor=0d0d0d&labelColor=00ffff"/>
   </a>
   <a href="https://github.com/dhasap">
-    <img src="https://img.shields.io/badge/💻_GitHub-FFFF00?style=for-the-badge&logo=github&logoColor=FF0080&labelColor=00FFEA"/>
+    <img src="https://img.shields.io/badge/💻_GitHub-39ff14?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=39ff14"/>
   </a>
 </p>
 
@@ -89,10 +90,7 @@
 
 ```ansi
 ╔══════════════════════════════════════╗
-║   NEON MATRIX ONLINE - BRIGHT MODE   ║
-║   Sync: 2024-09-01 23:58 UTC       ║
+║   NEON LIGHTSHOW FULLY ACTIVATED     ║
+║   Colors: Magenta, Cyan, Lime, Red   ║
+║   Background: Deep Black #0d0d0d     ║
 ╚══════════════════════════════════════╝
-<em style="color:#FFFF00; text-shadow: 0 0 20px #FFFF00, 0 0 40px #FF0080, 0 0 60px #00FFEA; animation: pulse 1.5s infinite;">
-  "Code hard, glow brighter. 🌟"
-</em>
-</div>
