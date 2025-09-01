@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![CyberSnake CI](https://github.com/dhasap/dhasap/workflows/🐍%20CyberSnake%20CI%2FCD%20Pipeline/badge.svg)
+![Snake animation](https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake.svg)
 
 </div>
 
