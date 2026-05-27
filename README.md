@@ -2,7 +2,7 @@
 
 <!-- HEADER with typing animation -->
 <a href="https://github.com/dhasap">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;AI+%7C+Android+%7C+Web+%7C+Automation" alt="Typing SVG" />
 </a>
 
 <!-- BANNER -->
@@ -19,16 +19,16 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  🧑‍💻  Dhany — Full-Stack Dev & Automation Enthusiast  ║
+║  🧑‍💻  Dhany — Multi-Platform Developer                ║
 ║  🇮🇩   Based in Indonesia                             ║
-║  🤖   Building AI agents & web apps                   ║
-║  🎮   Anime • Gaming • Open Source                    ║
+║  🤖   AI agents • Android (Kotlin) • Web apps         ║
+║  🔧   Scraping tools & automation                     ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-- 🔭 Currently working on **AI automation agents** & **web apps**
+- 🔭 Currently working on **AI agents**, **Android apps** & **automation tools**
 - 🌱 Learning **Supabase**, **LLM fine-tuning**, **DePIN**
-- 💬 Ask me about **Python**, **Node.js**, **Playwright**, **Automation**
+- 💬 Ask me about **Python**, **Kotlin**, **TypeScript**, **Automation**
 - ⚡ Fun fact: I automate everything, even my coffee machine (almost)
 
 ---
@@ -40,6 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
