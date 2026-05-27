@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=180&section=header&text=dhasap&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Developer%20%26%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- PROFILE VIEWS -->
-![Profile Views](https://img.shields.io/badge/Profile_Views-20-blue?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Profile_Views-20-blue?style=for-the-badge&logo=github&logoColor=white" alt="profile views"/>
 
 </div>
 
