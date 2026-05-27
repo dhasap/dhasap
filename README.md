@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=180&section=header&text=dhasap&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Developer%20%26%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=dhasap&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dhasap&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS&v=2" alt="profile views"/>
 
 </div>
 
