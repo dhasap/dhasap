@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- HEADER with typing animation -->
+<!-- HEADER with animated typing -->
 <a href="https://github.com/dhasap">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;AI+%7C+Android+%7C+Web+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+dhasap;Multi-Platform+Developer;AI+%7C+Android+%7C+Web+%7C+Automation;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=180&section=header&text=dhasap&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Developer%20and%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- GRADIENT WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,19,37,56,95&height=200&section=header&text=dhasap&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Multi-Platform%20Developer&descSize=20&descAlignY=60&animation=fadeIn&descAlign=60" width="100%"/>
+
+<!-- PROFILE VIEWS & STATS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=dhasap&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -15,12 +18,15 @@
 ## 🧑‍💻 About Me
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║  🧑‍💻  Dhany — Multi-Platform Developer                ║
-║  🇮🇩   Based in Indonesia                             ║
-║  🤖   AI agents • Android (Kotlin) • Web apps         ║
-║  🔧   Scraping tools & automation                     ║
-╚═══════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  🧑‍💻  Dhany — Multi-Platform Developer                       ║
+║  🇮🇩   Based in Indonesia                                    ║
+║  🤖   AI agents • Android (Kotlin) • Web apps                ║
+║  🔧   Scraping tools & automation                            ║
+║  🎯   Passionate about clean code & efficient systems        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 - 🔭 Currently working on **AI agents**, **Android apps** & **automation tools**
@@ -34,21 +40,28 @@
 
 <div align="center">
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -59,15 +72,30 @@
 <div align="center">
 
 <!-- STATS CARD -->
-<img src="https://github-readme-stats-taupe.vercel.app/api?username=dhasap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&icon_color=58a6ff&ring_color=00F0FF&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-taupe.vercel.app/api?username=dhasap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&icon_color=58a6ff&ring_color=00F0FF&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="170"/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhasap&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhasap&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
 
 <!-- TOP LANGS -->
 <img src="https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhasap&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -97,7 +125,8 @@
 
 ---
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=100&section=footer)
+<!-- FOOTER WAVE -->
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,19,37,56,95&height=100&section=footer)
 
 **⭐ Star my repos if you find them useful!**
 
