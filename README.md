@@ -6,7 +6,7 @@
 </a>
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=180&section=header&text=dhasap&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Developer%20%26%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,31&height=180&section=header&text=dhasap&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Developer%20and%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
