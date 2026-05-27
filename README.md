@@ -18,12 +18,12 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-f3fd48a7f082.gif" width="35"> About Me
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🧑‍💻  Dhany — Full-Stack Developer & Automation Enthusiast  ║
-║  🇮🇩   Based in Indonesia                                    ║
-║  🤖   Building AI agents & web apps            ║
-║  🎮   Anime • Gaming • Open Source                           ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════╗
+║  🧑‍💻  Dhany — Full-Stack Dev & Automation Enthusiast  ║
+║  🇮🇩   Based in Indonesia                             ║
+║  🤖   Building AI agents & web apps                   ║
+║  🎮   Anime • Gaming • Open Source                    ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
 - 🔭 Currently working on **AI automation agents** & **web apps**
@@ -66,29 +66,15 @@
 <!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhasap&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=c9d1d9" height="170"/>
 
-</div>
-
-<div align="center">
-
 <!-- TOP LANGS -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" height="170"/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257455-55b42032-8e27-4b2a-a079-84a58ab5e37b.gif" width="35"> Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/dhasap/dhanytv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhasap&repo=dhanytv&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-
-
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
