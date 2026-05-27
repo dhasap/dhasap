@@ -2,7 +2,7 @@
 
 <!-- HEADER with typing animation -->
 <a href="https://github.com/dhasap">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;AI+%7C+Web+%7C+Automation+%7C+IPTV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
 </a>
 
 <!-- BANNER -->
@@ -21,14 +21,14 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  🧑‍💻  Dhany — Full-Stack Developer & Automation Enthusiast  ║
 ║  🇮🇩   Based in Indonesia                                    ║
-║  🤖   Building AI agents, web apps & IPTV systems            ║
+║  🤖   Building AI agents & web apps            ║
 ║  🎮   Anime • Gaming • Open Source                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 Currently working on **AI automation agents** & **IPTV streaming systems**
+- 🔭 Currently working on **AI automation agents** & **web apps**
 - 🌱 Learning **Supabase**, **LLM fine-tuning**, **DePIN**
-- 💬 Ask me about **Python**, **Node.js**, **Playwright**, **IPTV**
+- 💬 Ask me about **Python**, **Node.js**, **Playwright**, **Automation**
 - ⚡ Fun fact: I automate everything, even my coffee machine (almost)
 
 ---
@@ -74,7 +74,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -88,9 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhasap&repo=dhanytv&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&icon_color=58a6ff" />
 </a>
 
-<a href="https://github.com/dhasap/dhasap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhasap&repo=dhasap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
+
 
 </div>
 
