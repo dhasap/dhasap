@@ -2,9 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+dhasap;Multi-Platform+Developer;AI+%7C+Android+%7C+Web+%7C+Automation;Building+the+Future+with+Code" alt="Typing SVG" />
 
+<img src="https://komarev.com/ghpvc/?username=dhasap&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+
 </div>
 
 ---
+
+<br><br>
 
 ## 🧑‍💻 About Me
 
