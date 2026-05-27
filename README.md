@@ -84,6 +84,34 @@
 
 ---
 
+## 🎯 3D Contribution Stats
+
+<div align="center">
+
+<!-- 3D CONTRIBUTION STATS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhasap&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+<!-- REPOS PER LANGUAGE (Pie Chart) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhasap&theme=tokyonight" height="180"/>
+
+<!-- PRODUCTIVE TIME (Heatmap) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhasap&theme=tokyonight&utcOffset=7" height="180"/>
+
+<!-- STATS CARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhasap&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
