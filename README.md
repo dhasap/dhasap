@@ -6,7 +6,7 @@
 </a>
 
 <!-- GRADIENT WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,19,37,56,95&height=200&section=header&text=dhasap&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Multi-Platform%20Developer&descSize=20&descAlignY=60&animation=fadeIn&descAlign=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,19,37,56,95&height=180&section=header&text=dhasap&fontSize=90&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 <!-- PROFILE VIEWS & STATS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=dhasap&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
