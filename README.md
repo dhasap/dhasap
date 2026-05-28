@@ -3,22 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,19,37,56,95&height=180&section=header&text=dhasap&fontSize=90&fontColor=ffffff&fontAlignY=45" width="100%"/>
 </div>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  $ whoami                                                     ║
-║  dhasap                                                       ║
-║                                                               ║
-║  $ uname -a                                                   ║
-║  Multi-Platform Developer | AI • Android • Web                ║
-║                                                               ║
-║  $ cat /etc/skills                                            ║
-║  Python • Kotlin • TypeScript • JavaScript                    ║
-║  FastAPI • Streamlit • Playwright • Docker                    ║
-║                                                               ║
-║  $ echo $MISSION                                              ║
-║  Building the Future with Code 🚀                            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=200&lines=%24+whoami%0Adhasap%0A%24+uname+-a%0AMulti-Platform+Developer+%7C+AI+%E2%80%A2+Android+%E2%80%A2+Web%0A%24+cat+%2Fetc%2Fskills%0APython+%E2%80%A2+Kotlin+%E2%80%A2+TypeScript%0A%24+echo+%24MISSION%0ABuilding+the+Future+with+Code&backgroundColor=1a1a2e" alt="Terminal Animation" />
 
 <div align="center">
 <!-- TYPING ANIMATION -->
