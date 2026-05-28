@@ -123,8 +123,11 @@
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- SNAKE ANIMATION with glow effect -->
+<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: drop-shadow(0 0 10px #00F0FF);"/>
+
+<!-- Caption -->
+<p><em>🎮 Watch the snake eat my daily contributions!</em></p>
 
 </div>
 
