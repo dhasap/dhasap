@@ -19,7 +19,7 @@ Hi, I'm **M. Dhany Saputra** — an **Artificial Intelligence Engineer** working
 
 I build practical software around **AI-assisted workflows**, **Android apps**, **websites**, **automation**, **web scraping**, and **developer tooling**. My work usually starts from a real problem: making repetitive work faster, turning ideas into working tools, or experimenting with systems that can help developers build better software.
 
-I often work with **AI model routing** using tools like **9router** and **OmniRouter** to rotate and compare models. I also spend time around **Web3**, **crypto mining workflows**, **NFT minting**, **Cloudflare**, **VPS deployments**, and website scraping/automation.
+I often work with **AI model routing** using tools like **9router** and **OmniRouter** to rotate and compare models. I also spend time around **Web3**, **Cloudflare**, **VPS deployments**, and website scraping/automation.
 
 ```txt
 Focus: Artificial Intelligence • Android & Web Engineering • Automation • Web Scraping • Web3
@@ -35,7 +35,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 | Work | Freelance / Self-Employed |
 | Location | Indonesia |
 | Top Skill | Kecerdasan Buatan / Artificial Intelligence (AI) |
-| Interests | AI agents, Android apps, websites, model routing, web scraping, Web3, crypto mining, NFT minting, Cloudflare, VPS deployments |
+| Interests | AI agents, Android apps, websites, model routing, web scraping, Web3, Cloudflare, VPS deployments |
 
 ---
 
@@ -87,8 +87,6 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 ### Web3
 ![Web3](https://img.shields.io/badge/Web3-111827?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Crypto Mining](https://img.shields.io/badge/Crypto%20Mining-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![NFT Minting](https://img.shields.io/badge/NFT%20Minting-8247E5?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
@@ -101,7 +99,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 - Creating Android apps and websites with practical, daily-use features.
 - Scraping websites and turning messy web data into usable workflows.
 - Deploying and maintaining projects on **VPS** infrastructure with **Cloudflare** in front.
-- Exploring **Web3**, crypto mining workflows, and **NFT minting** automation.
+- Exploring **Web3** tooling and automation.
 
 ---
 
