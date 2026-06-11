@@ -3,9 +3,9 @@
 # M. Dhany Saputra
 
 **Artificial Intelligence Engineer**  
-Freelance | Self-Employed · Kota Tegal, Jawa Tengah, Indonesia
+Freelance | Self-Employed · Indonesia
 
-AI • Android Engineering • Automation • Developer Tools
+AI • Android • Websites • Automation • Web3 • Scraping
 
 [LinkedIn](https://www.linkedin.com/in/m-dhany-saputra-63195b415) · [GitHub](https://github.com/dhasap) · [Telegram](https://t.me/dhasap1220) · [X](https://x.com/dhasap1220) · [Email](mailto:dhasap@azkura.qzz.io)
 
@@ -15,12 +15,14 @@ AI • Android Engineering • Automation • Developer Tools
 
 ## 👋 About
 
-Hi, I'm **M. Dhany Saputra** — an **Artificial Intelligence Engineer** working independently as **Freelance | Self-Employed** from **Kota Tegal, Jawa Tengah, Indonesia**.
+Hi, I'm **M. Dhany Saputra** — an **Artificial Intelligence Engineer** working independently as **Freelance | Self-Employed** from **Indonesia**.
 
-I build practical software around **AI-assisted workflows**, **Android apps**, **automation**, and **developer tooling**. My work usually starts from a real problem: making repetitive work faster, turning ideas into working tools, or experimenting with systems that can help developers build better software.
+I build practical software around **AI-assisted workflows**, **Android apps**, **websites**, **automation**, **web scraping**, and **developer tooling**. My work usually starts from a real problem: making repetitive work faster, turning ideas into working tools, or experimenting with systems that can help developers build better software.
+
+I often work with **AI model routing** using tools like **9router** and **OmniRouter** to rotate and compare models. I also spend time around **Web3**, **crypto mining workflows**, **NFT minting**, **Cloudflare**, **VPS deployments**, and website scraping/automation.
 
 ```txt
-Focus: Artificial Intelligence • Android Engineering • Automation • Developer Tools
+Focus: Artificial Intelligence • Android & Web Engineering • Automation • Web Scraping • Web3
 ```
 
 ---
@@ -31,9 +33,9 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 |---|---|
 | Role | Artificial Intelligence Engineer |
 | Work | Freelance / Self-Employed |
-| Location | Kota Tegal, Jawa Tengah, Indonesia |
+| Location | Indonesia |
 | Top Skill | Kecerdasan Buatan / Artificial Intelligence (AI) |
-| Interests | AI agents, Android apps, automation pipelines, secure local-first tools, developer productivity |
+| Interests | AI agents, Android apps, websites, model routing, web scraping, Web3, crypto mining, NFT minting, Cloudflare, VPS deployments |
 
 ---
 
@@ -52,8 +54,11 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 
 ### AI, Automation & Tooling
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white)
+![9router](https://img.shields.io/badge/9router-AI%20Routing-2563EB?style=for-the-badge&logoColor=white)
+![OmniRouter](https://img.shields.io/badge/OmniRouter-Model%20Rotation-0EA5E9?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-2563EB?style=for-the-badge&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-111827?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Languages
@@ -73,10 +78,17 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Server%20Ops-111827?style=for-the-badge&logo=linux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Web3
+![Web3](https://img.shields.io/badge/Web3-111827?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Crypto Mining](https://img.shields.io/badge/Crypto%20Mining-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![NFT Minting](https://img.shields.io/badge/NFT%20Minting-8247E5?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
@@ -85,10 +97,11 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 ## 🧩 What I Like Working On
 
 - Building AI-assisted tools that help developers move faster.
-- Turning manual or repetitive workflows into automation.
-- Creating Android apps with clean UI, local-first data, and practical daily-use features.
-- Designing small web dashboards and utilities that solve specific problems.
-- Experimenting with networking, backend services, and workflow orchestration.
+- Routing and rotating AI models with **9router** and **OmniRouter** to compare output quality, speed, and cost.
+- Creating Android apps and websites with practical, daily-use features.
+- Scraping websites and turning messy web data into usable workflows.
+- Deploying and maintaining projects on **VPS** infrastructure with **Cloudflare** in front.
+- Exploring **Web3**, crypto mining workflows, and **NFT minting** automation.
 
 ---
 
