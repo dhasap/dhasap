@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:22D3EE&height=190&section=header&text=M.%20Dhany%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%E2%80%A2%20Android%20%26%20Automation%20Builder&descSize=16&descAlignY=58" width="100%" alt="M. Dhany Saputra banner" />
+# M. Dhany Saputra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.%20Dhany%20Saputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dhany-saputra-63195b415)
-[![GitHub](https://img.shields.io/badge/GitHub-dhasap-181717?style=for-the-badge&logo=github)](https://github.com/dhasap)
-[![Telegram](https://img.shields.io/badge/Telegram-dhasap1220-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dhasap1220)
-[![X](https://img.shields.io/badge/X-dhasap1220-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dhasap1220)
-[![Email](https://img.shields.io/badge/Email-dhasap%40azkura.qzz.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhasap@azkura.qzz.io)
+**Artificial Intelligence Engineer**  
+Freelance | Self-Employed · Kota Tegal, Jawa Tengah, Indonesia
 
-<img src="https://komarev.com/ghpvc/?username=dhasap&style=flat-square&color=2563eb&label=Profile+views" alt="profile views" />
+AI • Android Engineering • Automation • Developer Tools
+
+[LinkedIn](https://www.linkedin.com/in/m-dhany-saputra-63195b415) · [GitHub](https://github.com/dhasap) · [Telegram](https://t.me/dhasap1220) · [X](https://x.com/dhasap1220) · [Email](mailto:dhasap@azkura.qzz.io)
 
 </div>
 
@@ -38,17 +37,12 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Featured Projects
 
 | Project | Stack | What it shows |
 |---|---|---|
-| [`android-expert-mcp`](https://github.com/dhasap/android-expert-mcp) | TypeScript, MCP, automation | AI/developer-tooling experiment for Android/Kotlin workflows, browser control, scraping, and deployment assistance. |
-| [`azkura-auth-android`](https://github.com/dhasap/azkura-auth-android) | Kotlin, Jetpack Compose, Room, DataStore, Hilt | Native Android TOTP authenticator with encrypted local vault, QR import, backup flow, and polished Compose UI. |
-| [`nft-minting-skill`](https://github.com/dhasap/nft-minting-skill) | TypeScript, EVM, automation | Multi-wallet automation toolkit with scheduling, workflow helpers, and Hermes agent integration. |
-| [`vpn-bridge-proxy`](https://github.com/dhasap/vpn-bridge-proxy) | Python, networking, web panel | VPN-to-proxy bridge with account management and authenticated SOCKS5/HTTP proxy support. |
-| [`latex-pdf-editor`](https://github.com/dhasap/latex-pdf-editor) | TypeScript, Next.js | Web-based LaTeX-to-PDF editor experiment with live document workflow. |
-| [`githubverif`](https://github.com/dhasap/githubverif) | TypeScript, dashboard UI | Verification dashboard with API integration, job tracking, and frontend state handling. |
-| [`AzHua`](https://github.com/dhasap/AzHua) | Android, Kotlin/Java, modular architecture | Android app experiment with modular extension architecture and multi-module structure. |
+| [`azkura-auth-android`](https://github.com/dhasap/azkura-auth-android) | Kotlin, Jetpack Compose, Room, DataStore, Hilt, CameraX, ML Kit | Native Android TOTP authenticator with encrypted local vault, QR import, strict `otpauth://` handling, secure backup flow, and polished Compose UI. |
+| [`azkura-auth`](https://github.com/dhasap/azkura-auth) | JavaScript, Chrome Extension, TOTP, Google Drive | Browser extension version of Azkura Auth with RFC 6238 2FA generation, QR scanner, optional PIN protection, Google Sign-In, Drive backup/restore, and usage statistics. |
 
 ---
 
@@ -131,6 +125,6 @@ Focus: Artificial Intelligence • Android Engineering • Automation • Develo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,45:2563EB,100:0D1117&height=110&section=footer" width="100%" alt="footer wave" />
+_Thanks for visiting my GitHub profile._
 
 </div>
