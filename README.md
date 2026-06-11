@@ -87,6 +87,11 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 ### Web3
 ![Web3](https://img.shields.io/badge/Web3-111827?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-2563EB?style=for-the-badge&logo=chainlink&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-6D28D9?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Wallet UX](https://img.shields.io/badge/Wallet%20UX-0F766E?style=for-the-badge&logo=walletconnect&logoColor=white)
+![dApps](https://img.shields.io/badge/dApps-111827?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
 
 </div>
 
