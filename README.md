@@ -133,12 +133,9 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://dhany-anime.vercel.app/snake.svg?owner=dhasap&repo=dhasap" />
-  <img src="https://dhany-anime.vercel.app/anim/snake.gif" width="100%" alt="anime contribution snake — self-built" />
-</picture>
+<img src="https://dhany-anime.vercel.app/snake-anime.svg" width="100%" alt="anime contribution snake — self-built" />
 
-*Alternate formats:* [snake APNG](https://dhany-anime.vercel.app/anim/snake.apng) · [mascot video MP4](https://dhany-anime.vercel.app/anim/mascot.mp4) · [snake video MP4](https://dhany-anime.vercel.app/anim/snake.mp4)*
+*Snake dibangun sendiri via Python ([generator](https://github.com/dhasap/dhany-anime/blob/main/scripts/generate_snake.py)) — regenerate otomatis mingguan dari data kontribusi live.*
 
 </div>
 
