@@ -12,7 +12,7 @@ Freelance | Self-Employed · Indonesia
 
 AI • Android • Websites • Automation • Web3 • Scraping
 
-[LinkedIn](https://www.linkedin.com/in/m-dhany-saputra-63195b415) · [GitHub](https://github.com/dhasap) · [Telegram](https://t.me/dhasap1220) · [X](https://x.com/dhasap1220) · [Email](mailto:dhasap@azkura.qzz.io)
+[LinkedIn](https://www.linkedin.com/in/m-dhany-saputra-63195b415) · [GitHub](https://github.com/dhasap) · [Telegram](https://t.me/dhasap1220) · [X](https://x.com/dhasap1220) · [Email](mailto:mdhanysaputra23@gmail.com)
 
 </div>
 
@@ -48,7 +48,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 | Project | Stack | What it shows |
 |---|---|---|
-| [`dhanytv`](https://github.com/dhasap/dhanytv) | Python, GitHub Actions, XMLTV | 📺 Free Indonesian IPTV playlist — 900+ channels, daily auto-update pipeline (merge → cleanup → ClearKey fix → EPG), 96 ⭐ |
+| [`dhanytv`](https://github.com/dhasap/dhanytv) | Python, GitHub Actions, XMLTV | 📺 Free Indonesian IPTV playlist — 900+ channels, daily auto-update pipeline (merge → cleanup → ClearKey fix → EPG) |
 | [`nft-mint-agent`](https://github.com/dhasap/nft-mint-agent) | TypeScript, EVM | ⚡ Competitive multi-wallet NFT auto-mint agent. |
 
 ---
@@ -147,7 +147,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 - GitHub: [@dhasap](https://github.com/dhasap)
 - Telegram: [@dhasap1220](https://t.me/dhasap1220)
 - X/Twitter: [@dhasap1220](https://x.com/dhasap1220)
-- Email: [dhasap@azkura.qzz.io](mailto:dhasap@azkura.qzz.io)
+- Email: [dhasap@azkura.qzz.io](mailto:mdhanysaputra23@gmail.com)
 
 <div align="center">
 
