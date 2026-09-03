@@ -46,10 +46,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 | Project | Stack | What it shows |
 |---|---|---|
 | [`dhanytv`](https://github.com/dhasap/dhanytv) | Python, GitHub Actions, XMLTV | 📺 Free Indonesian IPTV playlist — 900+ channels, daily auto-update pipeline (merge → cleanup → ClearKey fix → EPG), 96 ⭐ |
-| [`azkura-auth-android`](https://github.com/dhasap/azkura-auth-android) | Kotlin, Jetpack Compose, Room, DataStore, Hilt, CameraX, ML Kit | Native Android TOTP authenticator with encrypted local vault, QR import, strict `otpauth://` handling, secure backup flow, and polished Compose UI. |
-| [`azkura-auth`](https://github.com/dhasap/azkura-auth) | JavaScript, Chrome Extension, TOTP, Google Drive | Browser extension version of Azkura Auth with RFC 6238 2FA generation, QR scanner, optional PIN protection, Google Sign-In, Drive backup/restore, and usage statistics. |
 | [`nft-mint-agent`](https://github.com/dhasap/nft-mint-agent) | TypeScript, EVM | ⚡ Competitive multi-wallet NFT auto-mint agent. |
-| [`dhany-anime`](https://github.com/dhasap/dhany-anime) | SVG, CSS Animation | (◕‿◕) The chibi mascot above — hand-crafted animated SVG (wave / blink / bob / sway), deployed on Vercel. |
 
 ---
 
@@ -116,24 +113,24 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 ## 📊 GitHub Activity
 
+*All cards below are self-built (no third-party services) — served from my own Vercel: [`dhany-anime`](https://github.com/dhasap/dhany-anime).*
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhasap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=C9D1D9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="165" alt="Top languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhasap&theme=tokyonight" width="100%" alt="Profile summary" />
-
-<img src="https://streak-stats.demolab.com?user=dhasap&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
+<img src="https://dhany-anime.vercel.app/stats.svg?username=dhasap" height="200" alt="GitHub stats — self-built" />
+<img src="https://dhany-anime.vercel.app/languages.svg?username=dhasap" height="200" alt="Top languages — self-built" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake — Anime Edition
+
+*Custom-built anime chibi snake that crawls across my contribution grid. The head animates along the path.*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhasap/dhasap/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+<img src="https://dhany-anime.vercel.app/snake.svg?owner=dhasap&repo=dhasap" width="100%" alt="anime contribution snake — self-built" />
 
 </div>
 
@@ -149,6 +146,6 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-_Thanks for visiting my GitHub profile — the mascot waved at you!_ 👋
+_Thanks for visiting — the chibi waved at you, and the snake ate your contributions._ (◕‿◕)
 
 </div>
