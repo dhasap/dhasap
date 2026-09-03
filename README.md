@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://dhany-anime.vercel.app/mascot.svg" width="300" alt="anime chibi mascot waving" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://dhany-anime.vercel.app/mascot.svg" />
+  <img src="https://dhany-anime.vercel.app/anim/mascot.gif" width="300" alt="anime chibi mascot waving" />
+</picture>
 
 # M. Dhany Saputra
 
@@ -130,7 +133,12 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-<img src="https://dhany-anime.vercel.app/snake.svg?owner=dhasap&repo=dhasap" width="100%" alt="anime contribution snake — self-built" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://dhany-anime.vercel.app/snake.svg?owner=dhasap&repo=dhasap" />
+  <img src="https://dhany-anime.vercel.app/anim/snake.gif" width="100%" alt="anime contribution snake — self-built" />
+</picture>
+
+*Alternate formats:* [snake APNG](https://dhany-anime.vercel.app/anim/snake.apng) · [mascot video MP4](https://dhany-anime.vercel.app/anim/mascot.mp4) · [snake video MP4](https://dhany-anime.vercel.app/anim/snake.mp4)*
 
 </div>
 
