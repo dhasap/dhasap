@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://dhany-anime.vercel.app/mascot.svg" width="300" alt="anime chibi mascot waving" />
+
 # M. Dhany Saputra
 
-**Artificial Intelligence Engineer**  
+**Artificial Intelligence Engineer**
 Freelance | Self-Employed · Indonesia
 
 AI • Android • Websites • Automation • Web3 • Scraping
@@ -17,7 +19,7 @@ AI • Android • Websites • Automation • Web3 • Scraping
 
 Hi, I'm **M. Dhany Saputra** — an **Artificial Intelligence Engineer** working independently as **Freelance | Self-Employed** from **Indonesia**.
 
-I build practical software around **AI-assisted workflows**, **Android apps**, **websites**, **automation**, **web scraping**, and **developer tooling**. My work usually starts from a real problem: making repetitive work faster, turning ideas into working tools, or experimenting with systems that can help developers build better software.
+I build practical software around **AI-assisted workflows**, **Android apps**, **websites**, **automation**, **web scraping**, and **developer tooling**. My work usually starts from a real problem: making repetitive work faster, turning ideas into working tools, or experimenting with systems that help developers build better software.
 
 I often work with **AI model routing** using tools like **9router** and **OmniRouter** to rotate and compare models. I also spend time around **Web3**, **Cloudflare**, **VPS deployments**, and website scraping/automation.
 
@@ -43,8 +45,11 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 | Project | Stack | What it shows |
 |---|---|---|
+| [`dhanytv`](https://github.com/dhasap/dhanytv) | Python, GitHub Actions, XMLTV | 📺 Free Indonesian IPTV playlist — 900+ channels, daily auto-update pipeline (merge → cleanup → ClearKey fix → EPG), 96 ⭐ |
 | [`azkura-auth-android`](https://github.com/dhasap/azkura-auth-android) | Kotlin, Jetpack Compose, Room, DataStore, Hilt, CameraX, ML Kit | Native Android TOTP authenticator with encrypted local vault, QR import, strict `otpauth://` handling, secure backup flow, and polished Compose UI. |
 | [`azkura-auth`](https://github.com/dhasap/azkura-auth) | JavaScript, Chrome Extension, TOTP, Google Drive | Browser extension version of Azkura Auth with RFC 6238 2FA generation, QR scanner, optional PIN protection, Google Sign-In, Drive backup/restore, and usage statistics. |
+| [`nft-mint-agent`](https://github.com/dhasap/nft-mint-agent) | TypeScript, EVM | ⚡ Competitive multi-wallet NFT auto-mint agent. |
+| [`dhany-anime`](https://github.com/dhasap/dhany-anime) | SVG, CSS Animation | (◕‿◕) The chibi mascot above — hand-crafted animated SVG (wave / blink / bob / sway), deployed on Vercel. |
 
 ---
 
@@ -102,6 +107,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 - Building AI-assisted tools that help developers move faster.
 - Routing and rotating AI models with **9router** and **OmniRouter** to compare output quality, speed, and cost.
 - Creating Android apps and websites with practical, daily-use features.
+- Running an auto-updating **IPTV playlist pipeline** that merges, cleans, and re-keys 900+ channels daily.
 - Scraping websites and turning messy web data into usable workflows.
 - Deploying and maintaining projects on **VPS** infrastructure with **Cloudflare** in front.
 - Exploring **Web3** tooling and automation.
@@ -116,6 +122,8 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhasap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="165" alt="Top languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhasap&theme=tokyonight" width="100%" alt="Profile summary" />
+
+<img src="https://streak-stats.demolab.com?user=dhasap&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -141,6 +149,6 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-_Thanks for visiting my GitHub profile._
+_Thanks for visiting my GitHub profile — the mascot waved at you!_ 👋
 
 </div>
