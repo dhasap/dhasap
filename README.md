@@ -120,8 +120,8 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-<img src="https://dhany-anime.vercel.app/stats.svg?username=dhasap&v=5" height="200" alt="GitHub stats — self-built" />
-<img src="https://dhany-anime.vercel.app/languages.svg?username=dhasap&v=4" height="200" alt="Top languages — self-built" />
+<img src="https://dhany-anime.vercel.app/stats.svg?username=dhasap&v=6" height="200" alt="GitHub stats — self-built" />
+<img src="https://dhany-anime.vercel.app/languages.svg?username=dhasap&v=2" height="200" alt="Top languages — self-built" />
 
 </div>
 
@@ -133,7 +133,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-<img src="https://dhany-anime.vercel.app/snake-anime.svg?v=4" width="100%" alt="anime contribution snake — self-built" />
+<img src="https://dhany-anime.vercel.app/snake-anime.svg?v=6" width="100%" alt="anime contribution snake — self-built" />
 
 *Snake dibangun sendiri via Python ([generator](https://github.com/dhasap/dhany-anime/blob/main/scripts/generate_snake.py)) — regenerate otomatis mingguan dari data kontribusi live.*
 
