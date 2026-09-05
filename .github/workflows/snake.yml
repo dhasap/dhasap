@@ -1,0 +1,48 @@
+name: Anime Snake
+
+on:
+  schedule:
+    - cron: '30 2 * * 1'  # Senin 02:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVG from live contributions
+        run: |
+          python3 --version
+          python3 - <<'PY'
+          import re, sys, urllib.request
+          from datetime import date, timedelta
+          sys.path.insert(0, '.')
+          from scripts.generate_snake import Grid, build_organic_path, render, fetch_contributions
+          import random
+          try:
+              contribs = fetch_contributions('dhasap')
+          except Exception as e:
+              print('fetch failed, dummy:', e)
+              from scripts.generate_snake import dummy_contributions
+              contribs = dummy_contributions()
+          random.seed(7)
+          grid = Grid(contribs)
+          path = build_organic_path(grid, random.Random(7))
+          render(grid, path, cell=13, speed=22, out='assets/snake-anime.svg')
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/snake-anime.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto-update: regenerate anime snake dari data kontribusi live"
+            git push
+          fi
