@@ -147,7 +147,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 - GitHub: [@dhasap](https://github.com/dhasap)
 - Telegram: [@dhasap1220](https://t.me/dhasap1220)
 - X/Twitter: [@dhasap1220](https://x.com/dhasap1220)
-- Email: [dhasap@azkura.qzz.io](mailto:mdhanysaputra23@gmail.com)
+- Email: [mdhanysaputra23@gmail.com](mailto:mdhanysaputra23@gmail.com)
 
 <div align="center">
 
