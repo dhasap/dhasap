@@ -116,7 +116,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 ## 📊 GitHub Activity
 
-*All cards below are self-built (no third-party services) — served from my own Vercel: [`dhany-anime`](https://github.com/dhasap/dhany-anime).*
+*All cards below are self-built (no third-party services) — served from my own Vercel deployment.*
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <img src="https://raw.githubusercontent.com/dhasap/dhasap/main/assets/snake-anime.svg" width="100%" alt="anime contribution snake — self-built" />
 
-*Snake dibangun sendiri via Python ([generator](https://github.com/dhasap/dhany-anime/blob/main/scripts/generate_snake.py)) — regenerate otomatis mingguan dari data kontribusi live.*
+*Snake dibangun sendiri via Python — regenerate otomatis mingguan dari data kontribusi live.*
 
 </div>
 
