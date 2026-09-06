@@ -120,8 +120,8 @@ Focus: Artificial Intelligence • Android & Web Engineering • Automation • 
 
 <div align="center">
 
-<img src="https://dhany-anime.vercel.app/stats.svg?username=dhasap&v=8" height="200" alt="GitHub stats — self-built" />
-<img src="https://dhany-anime.vercel.app/languages.svg?username=dhasap&v=2" height="200" alt="Top languages — self-built" />
+<img src="https://dhany-anime.vercel.app/stats.svg?username=dhasap&v=9" height="200" alt="GitHub stats — self-built" />
+<img src="https://dhany-anime.vercel.app/languages.svg?username=dhasap&v=3" height="200" alt="Top languages — self-built" />
 
 </div>
 
