@@ -160,6 +160,17 @@ def build_organic_path(grid: Grid, rng: random.Random):
         current = nxt
         remaining.discard(nxt)
 
+    # close the loop: after all food is eaten, walk back to the start cell so
+    # the animateMotion wrap (progress 1.0 -> 0.0) is seamless — no teleport.
+    if current != start:
+        blocked = set()  # the body is short (42 seg) so any route is safe
+        while current != start:
+            nxt = bfs_next_step(grid, current, start, blocked)
+            if nxt is None:
+                break
+            path.append(nxt)
+            current = nxt
+
     return path
 
 
