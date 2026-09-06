@@ -35,7 +35,7 @@ from collections import deque
 from datetime import date, timedelta
 
 # ---------- palette ----------
-BG = "#060a1f"
+BG = "#0a0e1f"
 STAR = "#fdf6e9"
 CORAL = "#e2524a"
 HAIR = "#5468d4"
@@ -47,7 +47,7 @@ BODY_DARK = "#3b4a8f"
 BODY_MID = "#5b74d9"
 BODY_LIGHT = "#8aa0f5"
 BELLY = "#c7d4ff"
-LEVELS = ["#101737", "#0e5a3a", "#1a8a4f", "#2fbf67", "#54e08a"]
+LEVELS = ["#0d1226", "#0e5a3a", "#1a8a4f", "#2fbf67", "#54e08a"]
 
 UAS = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
        "(KHTML, like Gecko) Chrome/120 Safari/537.36")
@@ -273,15 +273,16 @@ def render(grid: Grid, path, cell=13, gap=3, speed=22, out="snake.svg"):
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="{BG}"/>
-    <stop offset="1" stop-color="#0b1030"/>
+    <stop offset="1" stop-color="#141a3d"/>
   </linearGradient>
+  <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5468d4"/><stop offset="0.55" stop-color="#4cc9f0"/><stop offset="1" stop-color="#e2524a"/></linearGradient>
   <path id="snakepath" d="{mpath}" fill="none"/>
 </defs>
 <rect width="{W}" height="{H}" rx="14" fill="url(#bg)"/>
 <g>
   {stars_svg}
 </g>
-<text x="{W / 2}" y="30" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="14" font-weight="700" fill="{HAIR_HI}">contribution snake — anime edition (◕‿◕)</text>
+<rect x="10" y="3" width="{W - 20}" height="4" rx="2" fill="url(#strip)" opacity="0.9"/><text x="{W - 16}" y="42" text-anchor="end" font-size="44" font-weight="700" fill="{HAIR_HI}" opacity="0.06" font-family="'Hiragino Mincho ProN','Yu Mincho',serif">貢献</text><text x="28" y="34" font-family="Segoe UI,sans-serif" font-size="14" font-weight="700" fill="{HAIR_HI}">contribution snake — anime edition (◕‿◕)</text><text x="{W - 28}" y="34" text-anchor="end" font-family="Segoe UI,sans-serif" font-size="10.5" fill="#6e7681">self-built · dhasap</text>
 <g>
   {cells_svg}
 </g>
